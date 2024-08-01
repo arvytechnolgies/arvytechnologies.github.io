@@ -1,1 +1,4 @@
-arvy.tech
+; DNS Configuration for arvy.tech
+
+; CNAME Record
+www.arvy.tech. IN CNAME arvytechnolgies.github.io.
